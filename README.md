@@ -28,7 +28,7 @@ Set the Environment Variable:
 - Click on "Edit the system environment variables".
 - In the System Properties window, click on the "Environment Variables" button.
 - In the Environment Variables window, click "New" under the "User variables" section.
-- Set the "Variable name" to WEATHER_API_KEY and the "Variable value" to your API key (ba7f463e435caf2f672af17c45de492a).
+- Set the "Variable name" to WEATHER_API_KEY and the "Variable value" to your API key (e.g. ba7f463e435caf2f672af17c45de492a).
 - Click "OK" to save the new environment variable.
 
 ### Linux
