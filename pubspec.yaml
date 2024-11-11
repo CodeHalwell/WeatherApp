@@ -1,0 +1,13 @@
+name: weather_app
+description: A Dart CLI application.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  google_generative_ai: ^0.4.6
+  http: ^1.2.2
+
+dev_dependencies:
+    pedantic: ^1.11.0
